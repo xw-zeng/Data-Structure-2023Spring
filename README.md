@@ -9,7 +9,7 @@
 
 > Students who ranked in the top 5 of the bonus questions would receive a lovely toy bear! The bear below is what I got!!!
 >
-> ![image-20240301195908952](https://github.com/xw-zeng/Data-Structure-2023Spring/bonus.jpg)
+> ![image-toybear](https://github.com/xw-zeng/Data-Structure-2023Spring/blob/369e62f8b3291acf0c0f0136e950c5cbff1e6562/bonus.jpg)
 
 
 
