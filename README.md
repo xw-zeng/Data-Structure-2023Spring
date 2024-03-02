@@ -13,7 +13,7 @@
 
 
 
-## Quick review of projects
+## Quick Review of Homework
 
 - [1. HW1](#1)
 - [2. HW2](#2)
